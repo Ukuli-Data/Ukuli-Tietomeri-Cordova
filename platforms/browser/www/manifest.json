@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Ukuli-Tietomeri-Cordova",
+  "short_name": "Ukuli-Tietomeri-Cordova",
+  "version": "com.ukulidata.tietomeri",
+  "description": "Tietomeri interface for desktop, Android and iPhone.",
+  "author": "Ukuli Data",
+  "icons": [],
+  "start_url": "index.html"
+}
